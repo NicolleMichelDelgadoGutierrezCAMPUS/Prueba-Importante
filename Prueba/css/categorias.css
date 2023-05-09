@@ -1,0 +1,9 @@
+table {
+    width: 75%;
+    left: 25%;
+    position: absolute;
+}
+
+#container {
+    position: absolute;
+}

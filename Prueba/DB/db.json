@@ -1,0 +1,30 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "categorias": "Electrodomesticos" ,
+      "borrar": "Borrar"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "categories": "Cafeteria",
+      "product": "Gaseosas",
+      "precio": 5000,
+      "borrar": "Borrar"
+    }
+  ], 
+
+  "bills": [
+    {
+      "id": 1,
+      "cliente": "Jose Martinez",
+      "empleado": "Juan Amaya",
+      "fecha": "2023-05-03",
+      "products": "Gaseosas",
+      "cantidad": 10
+    }
+  ]
+}
